@@ -1,0 +1,10 @@
+/home/gustavocn/Desktop/dev/Ecommerce-springboot-react/backend/src/main/java/dev/gustavonogueira/ecommerce/EcommerceApplication.java
+/home/gustavocn/Desktop/dev/Ecommerce-springboot-react/backend/src/main/java/dev/gustavonogueira/ecommerce/controller/ProductController.java
+/home/gustavocn/Desktop/dev/Ecommerce-springboot-react/backend/src/main/java/dev/gustavonogueira/ecommerce/model/Product.java
+/home/gustavocn/Desktop/dev/Ecommerce-springboot-react/backend/src/main/java/dev/gustavonogueira/ecommerce/repository/ProductRepository.java
+/home/gustavocn/Desktop/dev/Ecommerce-springboot-react/backend/src/main/java/dev/gustavonogueira/ecommerce/repository/OrderRepository.java
+/home/gustavocn/Desktop/dev/Ecommerce-springboot-react/backend/src/main/java/dev/gustavonogueira/ecommerce/form/ProductForm.java
+/home/gustavocn/Desktop/dev/Ecommerce-springboot-react/backend/src/main/java/dev/gustavonogueira/ecommerce/dto/ProductDto.java
+/home/gustavocn/Desktop/dev/Ecommerce-springboot-react/backend/src/main/java/dev/gustavonogueira/ecommerce/model/Order.java
+/home/gustavocn/Desktop/dev/Ecommerce-springboot-react/backend/src/main/java/dev/gustavonogueira/ecommerce/model/User.java
+/home/gustavocn/Desktop/dev/Ecommerce-springboot-react/backend/src/main/java/dev/gustavonogueira/ecommerce/model/OrderItem.java

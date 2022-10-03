@@ -1,1 +1,1 @@
-# Ecommerce-react-springboot
+# Ecommerce-springboot-react

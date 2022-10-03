@@ -1,0 +1,10 @@
+dev/gustavonogueira/ecommerce/repository/ProductRepository.class
+dev/gustavonogueira/ecommerce/repository/OrderRepository.class
+dev/gustavonogueira/ecommerce/dto/ProductDto.class
+dev/gustavonogueira/ecommerce/model/Product.class
+dev/gustavonogueira/ecommerce/model/Order.class
+dev/gustavonogueira/ecommerce/model/OrderItem.class
+dev/gustavonogueira/ecommerce/EcommerceApplication.class
+dev/gustavonogueira/ecommerce/form/ProductForm.class
+dev/gustavonogueira/ecommerce/model/User.class
+dev/gustavonogueira/ecommerce/controller/ProductController.class
