@@ -22,7 +22,7 @@ const CartItems = ({items, products, getProductInfo}) => {
     if (product != null) {
           console.log(product)
           itemsGrid.push(
-            <CartItem name={product['name']} price={product.price.raw || 0 } quantity={value} imageUrl={product.image.url}/>    
+            <CartItem key={product['id']} name={product['name']} price={product.price.raw || 0 } quantity={value} imageUrl={product.image.url}/>    
             )
     }
   })

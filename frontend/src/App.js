@@ -37,7 +37,7 @@ function App() {
 
   return (
     <Router>
-      <div className="App">
+      <div className="App" >
         <Navbar cartSize={cartSize}/>
         <Routes>
           <Route path='/' 
@@ -46,7 +46,7 @@ function App() {
           </Route>
           <Route path='/cart'
             element={<Cart cart={cartItems} products={products} size={cartSize}/>}
-          >
+            >
           </Route>
           <Route path='/checkout'
             element={<Checkout cart={cartItems} products={products}/>}

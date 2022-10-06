@@ -19,7 +19,7 @@ const Navbax = ({cartSize}) => {
                     MyStore
                 </Typography>
                 <div className={classes.grow}/>
-                {location.pathname != '/cart' &&(
+                {location.pathname !== '/cart' &&(
                     <div className={classes.button}>
                         <IconButton component={Link} to="/cart" aria-label='Show cart items' color='inherit'>
                             <Badge badgeContent={cartSize} color='secondary'>
